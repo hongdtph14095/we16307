@@ -31,4 +31,3 @@ type AppProps={
 const DemoApp=(props: AppProps) =>{
     console.log(props)
 }
-// DemoApp("heloo linh nho");
